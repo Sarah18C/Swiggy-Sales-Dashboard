@@ -1,4 +1,4 @@
-# Swiggy-Sales-Dashboard
+# Swiggy-Sales-Dashboard(Excel)
 🍽️ Swiggy Sales & Performance Dashboard (Excel)
 
 This project is an interactive Excel dashboard designed to analyze Swiggy’s sales performance, customer behavior, and food trends using real business data. The dashboard helps understand how sales change over time, which food categories perform best, and which cities and states generate the most revenue.
